@@ -15,7 +15,6 @@ This Weather Web Application allows users to view the current weather, hourly fo
 - **Current Weather**: Displays the current temperature, weather conditions, and other relevant details for the selected location.
 - **Hourly Forecast**: Provides a forecast for the next 24 hours with details on temperature, weather conditions, and wind speed.
 - **7-Day Forecast**: Shows a 7-day weather forecast with daily temperature highs and conditions.
-- **Air Quality Index (AQI)**: Displays AQI data and pollutant levels for the selected location.
 - **Sunrise & Sunset Times**: Shows the sunrise and sunset times for the current day.
 - **Moonrise & Moonset Times**: Shows the moonrise and moonset times for the current day.
 - **Search Functionality**: Allows users to search for any location worldwide and view its weather data.
@@ -31,16 +30,23 @@ This Weather Web Application allows users to view the current weather, hourly fo
 
 ## Setup and Installation
 
+## Setup and Installation
+
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
-    cd weather-app
+    git clone https://github.com/Krish209/weather-app.git
     ```
 
-2. **Install Dependencies**:
-    Ensure you have a local server setup (e.g., using VSCode Live Server, XAMPP, etc.) to serve the application files.
+2.  **Open with VSCode**:
 
-3. **API Configuration**:
+    ```bash
+      code .
+    ```
+
+3. **Install Dependencies**:
+    - Ensure you have a local server setup (e.g., using VSCode Live Server, XAMPP, etc.) to serve the application files.
+
+4. **API Configuration**:
     - Obtain API keys from the weather service provider and reverse geocoding service.
     - Update the `api.js` file with your API keys:
         ```javascript
@@ -48,7 +54,7 @@ This Weather Web Application allows users to view the current weather, hourly fo
         const geo_api_key = "YOUR_GEO_API_KEY";
         ```
 
-4. **Run the Application**:
+5. **Run the Application**:
     - Start your local server and navigate to the application URL (e.g., `http://localhost/weather-app`).
 
 ## Project Structure
@@ -63,6 +69,9 @@ weather-app/
 ├── js/
 │   ├── api.js
 │   ├── app.js
+│   ├── new_app.js
 │   ├── module.js
+|   ├── route.js
+├── favicon.svg
 ├── index.html
 └── README.md
