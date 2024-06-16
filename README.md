@@ -8,7 +8,7 @@ This Weather Web Application allows users to view the current weather, hourly fo
 
 - **Current Weather**: Displays the current temperature, weather conditions, and other relevant details for the selected location.
 - **Hourly Forecast**: Provides a forecast for the next 24 hours with details on temperature, weather conditions, and wind speed.
-- **5-Day Forecast**: Shows a 5-day weather forecast with daily temperature highs and conditions.
+- **7-Day Forecast**: Shows a 7-day weather forecast with daily temperature highs and conditions.
 - **Air Quality Index (AQI)**: Displays AQI data and pollutant levels for the selected location.
 - **Sunrise & Sunset Times**: Shows the sunrise and sunset times for the current day.
 - **Moonrise & Moonset Times**: Shows the moonrise and moonset times for the current day.
