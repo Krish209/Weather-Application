@@ -6,6 +6,10 @@ This Weather Web Application allows users to view the current weather, hourly fo
 
 ![image](https://github.com/Krish209/Weather-Application/assets/76595963/63fbcb3b-fc7f-46ce-9685-8a97f7d8bd17)
 
+
+![image](https://github.com/Krish209/Weather-Application/assets/76595963/aa2d6e12-d37e-4585-8748-9d5f9b74b5f7)
+
+
 ## Features
 
 - **Current Weather**: Displays the current temperature, weather conditions, and other relevant details for the selected location.
