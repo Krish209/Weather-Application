@@ -49,6 +49,7 @@ This Weather Web Application allows users to view the current weather, hourly fo
 4. **API Configuration**:
     - Obtain API keys from the weather service provider and reverse geocoding service.
     - Update the `api.js` file with your API keys:
+      
         ```javascript
         const api_key = "YOUR_WEATHER_API_KEY";
         const geo_api_key = "YOUR_GEO_API_KEY";
