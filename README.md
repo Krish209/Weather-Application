@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Weather Web Application allows users to view the current weather, hourly forecast, and 5-day forecast for any location worldwide. The application provides detailed information on temperature, humidity, pressure, visibility, air quality index (AQI), and sunrise/sunset times. Users can search for locations and view the weather data in an intuitive and user-friendly interface.
+This Weather Web Application allows users to view the current weather, hourly forecast, and 7-day forecast for any location worldwide. The application provides detailed information on temperature, humidity, pressure, visibility, air quality index (AQI), and sunrise/sunset times. Users can search for locations and view the weather data in an intuitive and user-friendly interface.
 
 ![image](https://github.com/Krish209/Weather-Application/assets/76595963/63fbcb3b-fc7f-46ce-9685-8a97f7d8bd17)
 
