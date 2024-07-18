@@ -28,7 +28,6 @@ This Weather Web Application allows users to view the current weather, hourly fo
 - **Weather API**: Fetches weather data from a weather service provider.
 - **Reverse Geocoding API**: Converts geographic coordinates into a human-readable address.
 
-## Setup and Installation
 
 ## Setup and Installation
 
